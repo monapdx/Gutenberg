@@ -1,1 +1,749 @@
-
+[
+  {
+    "link href": "https://gutenberg.org/ebooks/51912",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/51912/pg51912.cover.small.jpg",
+    "title": "The Boss, and How He Came to Rule New York",
+    "subtitle": "Alfred Henry Lewis",
+    "extra": "8168 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/35899",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/35899/pg35899.cover.small.jpg",
+    "title": "The Philippines a Century Hence",
+    "subtitle": "José Rizal",
+    "extra": "5436 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/816",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/816/pg816.cover.small.jpg",
+    "title": "Democracy in America — Volume 2",
+    "subtitle": "Alexis de Tocqueville",
+    "extra": "4357 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/22747",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/22747/pg22747.cover.small.jpg",
+    "title": "Financial Crime and Corruption",
+    "subtitle": "Samuel Vaknin",
+    "extra": "3566 downloads"
+  },
+  {
+    "padded": "Displaying results 1–25",
+    "links": "| Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694?start_index=26",
+    "links (2)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/14",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/14/pg14.cover.small.jpg",
+    "title": "The 1990 CIA World Factbook",
+    "subtitle": "United States. Central Intelligence Agency",
+    "extra": "4280 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/30051",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/30051/pg30051.cover.small.jpg",
+    "title": "The History of Woman Suffrage, Volume VI",
+    "extra": "3442 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/14975",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/14975/pg14975.cover.small.jpg",
+    "title": "Southern Horrors: Lynch Law in All Its Phases",
+    "subtitle": "Ida B. Wells-Barnett",
+    "extra": "5318 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/1232",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/1232/pg1232.cover.small.jpg",
+    "title": "The Prince",
+    "subtitle": "Niccolò Machiavelli",
+    "extra": "27528 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/61",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/61/pg61.cover.small.jpg",
+    "title": "The Communist Manifesto",
+    "subtitle": "Karl Marx and Friedrich Engels",
+    "extra": "7666 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/15043",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/15043/pg15043.cover.small.jpg",
+    "title": "The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)",
+    "subtitle": "Edmund Burke",
+    "extra": "3128 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/7370",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/7370/pg7370.cover.small.jpg",
+    "title": "Second Treatise of Government",
+    "subtitle": "John Locke",
+    "extra": "22372 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/46333",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/46333/pg46333.cover.small.jpg",
+    "title": "The social contract & discourses",
+    "subtitle": "Jean-Jacques Rousseau",
+    "extra": "4238 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/25282",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/25282/pg25282.cover.small.jpg",
+    "title": "The Jewish State",
+    "subtitle": "Theodor Herzl",
+    "extra": "4957 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/14977",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/14977/pg14977.cover.small.jpg",
+    "title": "The Red Record",
+    "subtitle": "Ida B. Wells-Barnett",
+    "extra": "6549 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/408",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/408/pg408.cover.small.jpg",
+    "title": "The Souls of Black Folk",
+    "subtitle": "W. E. B. Du Bois",
+    "extra": "22128 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/1",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/1/pg1.cover.small.jpg",
+    "title": "The Declaration of Independence of the United States of America",
+    "subtitle": "Thomas Jefferson",
+    "extra": "3045 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/52621",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/52621/pg52621.cover.small.jpg",
+    "title": "Society in America, Volume 1 (of 2)",
+    "subtitle": "Harriet Martineau",
+    "extra": "4836 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/1404",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/1404/pg1404.cover.small.jpg",
+    "title": "The Federalist Papers",
+    "subtitle": "Alexander Hamilton, James Madison, and John Jay",
+    "extra": "5982 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/60479",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/60479/pg60479.cover.small.jpg",
+    "title": "1900; or, The last President",
+    "subtitle": "Ingersoll Lockwood",
+    "extra": "3936 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/147",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/147/pg147.cover.small.jpg",
+    "title": "Common Sense",
+    "subtitle": "Thomas Paine",
+    "extra": "10206 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/63469",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/63469/pg63469.cover.small.jpg",
+    "title": "Washington Confidential",
+    "subtitle": "Jack Lait and Lee Mortimer",
+    "extra": "4731 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/6762",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/6762/pg6762.cover.small.jpg",
+    "title": "Politics: A Treatise on Government",
+    "subtitle": "Aristotle",
+    "extra": "3764 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/71",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/71/pg71.cover.small.jpg",
+    "title": "On the Duty of Civil Disobedience",
+    "subtitle": "Henry David Thoreau",
+    "extra": "5749 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/57037",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/57037/pg57037.cover.small.jpg",
+    "title": "The Prince",
+    "subtitle": "Niccolò Machiavelli",
+    "extra": "3021 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/815",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/815/pg815.cover.small.jpg",
+    "title": "Democracy in America — Volume 1",
+    "subtitle": "Alexis de Tocqueville",
+    "extra": "9894 downloads"
+  },
+  {
+    "links": "| Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694?start_index=26",
+    "links (2)": "Next",
+    "padded (2)": "Displaying results 1–25 | Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/5669",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/5669/pg5669.cover.small.jpg",
+    "title": "Considerations on Representative Government",
+    "subtitle": "John Stuart Mill",
+    "extra": "2530 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/15776",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/15776/pg15776.cover.small.jpg",
+    "title": "The Economic Consequences of the Peace",
+    "subtitle": "John Maynard Keynes",
+    "extra": "2304 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/16784",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/16784/pg16784.cover.small.jpg",
+    "title": "Memoir, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson, Volume 4",
+    "subtitle": "Thomas Jefferson",
+    "extra": "2094 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/70243",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/70243/pg70243.cover.small.jpg",
+    "title": "Labour policy—false and true : A study in economic history and industrial economics",
+    "subtitle": "Lynden Livingston Macassey",
+    "extra": "1992 downloads"
+  },
+  {
+    "padded": "Displaying results 26–50",
+    "links": "| First | Previous | Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (2)": "First",
+    "links href (2)": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (3)": "Previous",
+    "links href (3)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=51",
+    "links (4)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/7367",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/7367/pg7367.cover.small.jpg",
+    "title": "管子 (Chinese)",
+    "subtitle": "Zhong Guan",
+    "extra": "2512 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/6456",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/6456/pg6456.cover.small.jpg",
+    "title": "Public opinion",
+    "subtitle": "Walter Lippmann",
+    "extra": "2289 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/31193",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/31193/pg31193.cover.small.jpg",
+    "title": "Manifesto of the Communist Party",
+    "subtitle": "Karl Marx and Friedrich Engels",
+    "extra": "2974 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/5",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/5/pg5.cover.small.jpg",
+    "title": "The United States Constitution",
+    "subtitle": "United States",
+    "extra": "2092 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/608",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/608/pg608.cover.small.jpg",
+    "title": "Areopagitica",
+    "subtitle": "John Milton",
+    "extra": "1990 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/70864",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/70864/pg70864.cover.small.jpg",
+    "title": "History of Zionism, 1600-1918, Vol. 1 (of 2)",
+    "subtitle": "Nahum Sokolow",
+    "extra": "2496 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/15679",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/15679/pg15679.cover.small.jpg",
+    "title": "The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12)",
+    "subtitle": "Edmund Burke",
+    "extra": "2185 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/2162",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/2162/pg2162.cover.small.jpg",
+    "title": "Anarchism and Other Essays",
+    "subtitle": "Emma Goldman",
+    "extra": "2742 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/17306",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/17306/pg17306.cover.small.jpg",
+    "title": "The Condition of the Working-Class in England in 1844",
+    "subtitle": "Friedrich Engels",
+    "extra": "2088 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/26727",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/26727/pg26727.cover.small.jpg",
+    "title": "The Political History of England - Vol XI",
+    "subtitle": "George C. Brodrick and John Knight Fotheringham",
+    "extra": "1960 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/54710",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/54710/pg54710.cover.small.jpg",
+    "title": "The Shame of the Cities",
+    "subtitle": "Lincoln Steffens",
+    "extra": "2369 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/38535",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/38535/pg38535.cover.small.jpg",
+    "title": "The Great Illusion",
+    "subtitle": "Norman Angell",
+    "extra": "2147 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/44682",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/44682/pg44682.cover.small.jpg",
+    "title": "Speeches of Benjamin Harrison, Twenty-third President of the United States",
+    "subtitle": "Benjamin Harrison",
+    "extra": "2724 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/62754",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/62754/pg62754.cover.small.jpg",
+    "title": "Mussolini as revealed in his political speeches (November 1914-August 1923)",
+    "subtitle": "Benito Mussolini",
+    "extra": "2058 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/15772",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/15772/pg15772.cover.small.jpg",
+    "title": "Machiavelli, Volume I",
+    "subtitle": "Niccolò Machiavelli",
+    "extra": "1828 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/37539",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/37539/pg37539.cover.small.jpg",
+    "title": "The International Jew, the world's foremost problem [volume I] : being a reprint of a series of articles appearing in the Dearborn Independent from May 22 to October 2, 1920",
+    "subtitle": "Henry Ford and William John Cameron",
+    "extra": "2319 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/55002",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/55002/pg55002.cover.small.jpg",
+    "title": "NetWorld! What People Are Really Doing on the Internet and What It Means to You",
+    "subtitle": "David H. Rothman",
+    "extra": "2119 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/34856",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/34856/pg34856.cover.small.jpg",
+    "title": "My own story",
+    "subtitle": "Emmeline Pankhurst",
+    "extra": "2663 downloads"
+  },
+  {
+    "links": "| First | Previous | Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (2)": "First",
+    "padded (2)": "Displaying results 26–50 | First | Previous | Next",
+    "links href (2)": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (3)": "Previous",
+    "links href (3)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=51",
+    "links (4)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/40865",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/40865/pg40865.cover.small.jpg",
+    "title": "Paris and the Social Revolution",
+    "subtitle": "Alvan F. Sanborn",
+    "extra": "2020 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/37408",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/37408/pg37408.cover.small.jpg",
+    "title": "The Rising Tide of Color Against White World-Supremacy",
+    "subtitle": "Lothrop Stoddard",
+    "extra": "2640 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/21498",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/21498/pg21498.cover.small.jpg",
+    "title": "France and the Republic",
+    "subtitle": "William Henry Hurlbert",
+    "extra": "2102 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/57247",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/57247/pg57247.cover.small.jpg",
+    "title": "China Revolutionized",
+    "subtitle": "John Stuart Thomson",
+    "extra": "1726 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/20224",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/20224/pg20224.cover.small.jpg",
+    "title": "The Invisible Government",
+    "subtitle": "Dan Smoot",
+    "extra": "1599 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/68419",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/68419/pg68419.cover.small.jpg",
+    "title": "The Roman assemblies from their origin to the end of the Republic",
+    "subtitle": "George Willis Botsford",
+    "extra": "1503 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/43103",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/43103/pg43103.cover.small.jpg",
+    "title": "\"The System,\" As Uncovered by the San Francisco Graft Prosecution",
+    "subtitle": "Franklin Hichborn",
+    "extra": "1427 downloads"
+  },
+  {
+    "padded": "Displaying results 51–75",
+    "links": "| First | Previous | Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (2)": "First",
+    "links href (2)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=26",
+    "links (3)": "Previous",
+    "links href (3)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=76",
+    "links (4)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/3286",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/3286/pg3286.cover.small.jpg",
+    "title": "Selections from the Speeches and Writings of Edmund Burke",
+    "subtitle": "Edmund Burke",
+    "extra": "1548 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/46423",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/46423/pg46423.cover.small.jpg",
+    "title": "A Contribution to the Critique of Political Economy",
+    "subtitle": "Karl Marx",
+    "extra": "1715 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/22591",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/22591/pg22591.cover.small.jpg",
+    "title": "A Political History of the State of New York, Volumes 1-3",
+    "subtitle": "De Alva Stanwood Alexander",
+    "extra": "1817 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/11274",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/11274/pg11274.cover.small.jpg",
+    "title": "The Anti-Slavery Examiner, Part 4 of 4",
+    "subtitle": "American Anti-Slavery Society",
+    "extra": "1500 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/13715",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/13715/pg13715.cover.small.jpg",
+    "title": "The History of the Fabian Society",
+    "subtitle": "Edward R. Pease",
+    "extra": "1427 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/32627",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/32627/pg32627.cover.small.jpg",
+    "title": "Area Handbook for Bulgaria",
+    "subtitle": "Eugene K. Keefe, William Giloane, James M. Moore, Violeta D. Baluyut, Anne K. Long, and Neda A. Walpole",
+    "extra": "1544 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/27573",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/27573/pg27573.cover.small.jpg",
+    "title": "Esprit des lois (French)",
+    "subtitle": "baron de Charles de Secondat Montesquieu",
+    "extra": "1690 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/76262",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/76262/pg76262.cover.small.jpg",
+    "title": "Beer, its history and its economic value as a national beverage",
+    "subtitle": "F. W. Salem",
+    "extra": "1427 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/30646",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/30646/pg30646.cover.small.jpg",
+    "title": "Woman under socialism",
+    "subtitle": "August Bebel",
+    "extra": "1477 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/1346",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/1346/pg1346.cover.small.jpg",
+    "title": "The Eighteenth Brumaire of Louis Bonaparte",
+    "subtitle": "Karl Marx",
+    "extra": "1816 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/44325",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/44325/pg44325.cover.small.jpg",
+    "title": "The Great American Fraud",
+    "subtitle": "Samuel Hopkins Adams",
+    "extra": "1642 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/6885",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/6885/pg6885.cover.small.jpg",
+    "title": "The Indolence of the Filipino",
+    "subtitle": "José Rizal",
+    "extra": "1426 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/17346",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/17346/pg17346.cover.small.jpg",
+    "title": "The Report on Unidentified Flying Objects",
+    "subtitle": "Edward J. Ruppelt",
+    "extra": "1476 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/61364",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/61364/pg61364.cover.small.jpg",
+    "title": "Crystallizing Public Opinion",
+    "subtitle": "Edward L. Bernays",
+    "extra": "1772 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/2810",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/2810/pg2810.cover.small.jpg",
+    "title": "Plunkitt of Tammany Hall: a series of very plain talks on very practical politics, delivered by ex-Senator George Washington Plunkitt, the Tammany philosopher, from his rostrum—the New York County court house bootblack stand; Recorded by William L. Riordon",
+    "subtitle": "George Washington Plunkitt",
+    "extra": "1524 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/53115",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/53115/pg53115.cover.small.jpg",
+    "title": "The History of Tammany Hall",
+    "subtitle": "Gustavus Myers",
+    "extra": "1637 downloads"
+  },
+  {
+    "links": "| First | Previous | Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (2)": "First",
+    "padded (2)": "Displaying results 51–75 | First | Previous | Next",
+    "links href (2)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=26",
+    "links (3)": "Previous",
+    "links href (3)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=76",
+    "links (4)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/9660",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/9660/pg9660.cover.small.jpg",
+    "title": "The First Blast of the Trumpet against the monstrous regiment of Women",
+    "subtitle": "John Knox",
+    "extra": "1468 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/33111",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/33111/pg33111.cover.small.jpg",
+    "title": "The origin of the family, private property, and the state",
+    "subtitle": "Friedrich Engels",
+    "extra": "1758 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/47111",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/47111/pg47111.cover.small.jpg",
+    "title": "Letters from a Farmer in Pennsylvania, to the Inhabitants of the British Colonies",
+    "subtitle": "John Dickinson",
+    "extra": "1612 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/18",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/18/pg18.cover.small.jpg",
+    "title": "The Federalist Papers",
+    "subtitle": "Alexander Hamilton, James Madison, and John Jay",
+    "extra": "1755 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/14058",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/14058/pg14058.cover.small.jpg",
+    "title": "Readings on Fascism and National Socialism",
+    "subtitle": "Various",
+    "extra": "1455 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/53772",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/53772/pg53772.cover.small.jpg",
+    "title": "Eclectic Magazine of Foreign Literature, Science, and Art, May 1885",
+    "subtitle": "Various",
+    "extra": "1374 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/39816",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/39816/pg39816.cover.small.jpg",
+    "title": "Macchiavellis Buch vom Fürsten (German)",
+    "subtitle": "Niccolò Machiavelli",
+    "extra": "1354 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/20580",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/20580/pg20580.cover.small.jpg",
+    "title": "Napoleon the Little",
+    "subtitle": "Victor Hugo",
+    "extra": "1303 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/22733",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/22733/pg22733.cover.small.jpg",
+    "title": "Socialism: A Summary and Interpretation of Socialist Principles",
+    "subtitle": "John Spargo",
+    "extra": "1237 downloads"
+  },
+  {
+    "padded": "Displaying results 76–100",
+    "links": "| First | Previous | Next",
+    "links href": "https://gutenberg.org/ebooks/bookshelf/694",
+    "links (2)": "First",
+    "links href (2)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=51",
+    "links (3)": "Previous",
+    "links href (3)": "https://gutenberg.org/ebooks/bookshelf/694?start_index=101",
+    "links (4)": "Next"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/55901",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/55901/pg55901.cover.small.jpg",
+    "title": "Critical, Historical, and Miscellaneous Essays; Vol. 1",
+    "subtitle": "Baron Thomas Babington Macaulay Macaulay",
+    "extra": "1329 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/55308",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/55308/pg55308.cover.small.jpg",
+    "title": "Progress and Poverty, Volumes I and II",
+    "subtitle": "Henry George",
+    "extra": "1288 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/40766",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/40766/pg40766.cover.small.jpg",
+    "title": "Nationalism",
+    "subtitle": "Rabindranath Tagore",
+    "extra": "1221 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/68152",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/68152/pg68152.cover.small.jpg",
+    "title": "Americanism",
+    "subtitle": "Theodore Roosevelt",
+    "extra": "1411 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/56035",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/56035/pg56035.cover.small.jpg",
+    "title": "The Writings of Thomas Jefferson, Vol. 7 (of 9)",
+    "subtitle": "Thomas Jefferson",
+    "extra": "1367 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/14721",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/14721/pg14721.cover.small.jpg",
+    "title": "Speeches & Letters of Abraham Lincoln, 1832-1865",
+    "subtitle": "Abraham Lincoln",
+    "extra": "1281 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/7176",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/7176/pg7176.cover.small.jpg",
+    "title": "A Letter to a Hindu",
+    "subtitle": "graf Leo Tolstoy",
+    "extra": "1194 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/21006",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/21006/pg21006.cover.small.jpg",
+    "title": "The Governments of Europe",
+    "subtitle": "Frederic Austin Ogg",
+    "extra": "1399 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/37603",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/37603/pg37603.cover.small.jpg",
+    "title": "The History of the Nineteenth Century in Caricature",
+    "subtitle": "Frederic Taber Cooper and Arthur Bartlett Maurice",
+    "extra": "1365 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/48136",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/48136/pg48136.cover.small.jpg",
+    "title": "The Complete Works in Philosophy, Politics and Morals of the late Dr. Benjamin Franklin, Vol. 1 [of 3]",
+    "subtitle": "Benjamin Franklin",
+    "extra": "1326 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/35861",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/35861/pg35861.cover.small.jpg",
+    "title": "Congressional government : a study in American politics",
+    "subtitle": "Woodrow Wilson",
+    "extra": "1265 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/360",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/360/pg360.cover.small.jpg",
+    "title": "What is Property? An Inquiry into the Principle of Right and of Government",
+    "subtitle": "P.-J. Proudhon",
+    "extra": "1192 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/1178",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/1178/pg1178.cover.small.jpg",
+    "title": "The Polity of the Athenians and the Lacedaemonians",
+    "subtitle": "Xenophon",
+    "extra": "1398 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/31125",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/31125/pg31125.cover.small.jpg",
+    "title": "The Life and Work of Susan B. Anthony (Volume 2 of 2)",
+    "subtitle": "Ida Husted Harper",
+    "extra": "1363 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/25232",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/25232/pg25232.cover.small.jpg",
+    "title": "The history of England, from the accession of George III. to the close of Pitt's first administration, 1760-1801",
+    "subtitle": "William Hunt",
+    "extra": "1305 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/29710",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/29710/pg29710.cover.small.jpg",
+    "title": "Ireland as it is, and as it would be under Home Rule",
+    "subtitle": "Robert John Buckley",
+    "extra": "1260 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/26159",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/26159/pg26159.cover.small.jpg",
+    "title": "Past and Present",
+    "subtitle": "Thomas Carlyle",
+    "extra": "1381 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/57343",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/57343/pg57343.cover.small.jpg",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "subtitle": "Chicago Commission on Race Relations",
+    "extra": "1171 downloads"
+  },
+  {
+    "link href": "https://gutenberg.org/ebooks/71000",
+    "cover-thumb src": "https://gutenberg.org/cache/epub/71000/pg71000.cover.small.jpg",
+    "title": "The public and its problems",
+    "subtitle": "John Dewey",
+    "extra": "1354 downloads"
+  }
+]
