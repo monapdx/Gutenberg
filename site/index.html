@@ -1,1 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Public Domain Directory</title>
+<style>:root {
+  --border: rgba(0,0,0,0.15);
+  --muted: rgba(0,0,0,0.6);
+}
 
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height: 1.35;
+}
+
+a { color: inherit; }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+}
+
+.brand {
+  font-weight: 800;
+}
+
+.tagline {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 10px;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 12px;
+}
+
+.cover {
+  width: 120px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.meta h3 {
+  margin: 0 0 6px;
+  font-size: 1rem;
+}
+
+.meta .author {
+  margin: 0 0 8px;
+  color: var(--muted);
+}
+
+.meta .downloads {
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+.footer {
+  margin-top: 24px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+.categories {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.cat-card {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.cat-title {
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.cat-sub {
+  color: var(--muted);
+  margin: 0;
+  font-size: .9rem;
+}</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+  <div>
+    <div class="brand">Public Domain Directory</div>
+    <div class="tagline">Browse Project Gutenberg by category</div>
+  </div>
+</div>
+
+<div class="categories">
+<a class="cat-card" href="categories/american-history.html">
+  <div class="cat-title">American History</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/archeology-anthropology.html">
+  <div class="cat-title">Archeology Anthropology</div>
+  <div class="cat-sub">96 titles</div>
+</a>
+<a class="cat-card" href="categories/art.html">
+  <div class="cat-title">Art</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/business.html">
+  <div class="cat-title">Business</div>
+  <div class="cat-sub">100 titles</div>
+</a>
+<a class="cat-card" href="categories/cooking-drinking.html">
+  <div class="cat-title">Cooking Drinking</div>
+  <div class="cat-sub">125 titles</div>
+</a>
+<a class="cat-card" href="categories/economics.html">
+  <div class="cat-title">Economics</div>
+  <div class="cat-sub">97 titles</div>
+</a>
+<a class="cat-card" href="categories/engineering-technology.html">
+  <div class="cat-title">Engineering Technology</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/gender-sexuality.html">
+  <div class="cat-title">Gender Sexuality</div>
+  <div class="cat-sub">99 titles</div>
+</a>
+<a class="cat-card" href="categories/health-medicine.html">
+  <div class="cat-title">Health Medicine</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/how-to.html">
+  <div class="cat-title">How To</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/humor.html">
+  <div class="cat-title">Humor</div>
+  <div class="cat-sub">99 titles</div>
+</a>
+<a class="cat-card" href="categories/journalism-media-writing.html">
+  <div class="cat-title">Journalism Media Writing</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/language-communication.html">
+  <div class="cat-title">Language Communication</div>
+  <div class="cat-sub">97 titles</div>
+</a>
+<a class="cat-card" href="categories/modern-history.html">
+  <div class="cat-title">Modern History</div>
+  <div class="cat-sub">97 titles</div>
+</a>
+<a class="cat-card" href="categories/mythology-folklore.html">
+  <div class="cat-title">Mythology Folklore</div>
+  <div class="cat-sub">100 titles</div>
+</a>
+<a class="cat-card" href="categories/novels.html">
+  <div class="cat-title">Novels</div>
+  <div class="cat-sub">99 titles</div>
+</a>
+<a class="cat-card" href="categories/philosophy-ethics.html">
+  <div class="cat-title">Philosophy Ethics</div>
+  <div class="cat-sub">100 titles</div>
+</a>
+<a class="cat-card" href="categories/politics.html">
+  <div class="cat-title">Politics</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/psychology.html">
+  <div class="cat-title">Psychology</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/sexuality-erotica.html">
+  <div class="cat-title">Sexuality Erotica</div>
+  <div class="cat-sub">98 titles</div>
+</a>
+<a class="cat-card" href="categories/sociology.html">
+  <div class="cat-title">Sociology</div>
+  <div class="cat-sub">97 titles</div>
+</a>
+</div>
+
+<div class="footer">
+Generated 2026-02-12 23:23
+</div>
+</div>
+</body>
+</html>
